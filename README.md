@@ -1,6 +1,6 @@
 Language: English
 
-# flustars(Flutter common utils library)
+# stars(Flutter common utils library)
 [![Pub](https://img.shields.io/pub/v/kusta)](https://github.com/kustasoft/kusta)  
 
 ## Get started
@@ -8,6 +8,6 @@ Language: English
 ### Add dependency
 ```yaml
 dependencies:
-  kusta: ^0.0.3
+  kusta: ^0.0.4
 
 ```

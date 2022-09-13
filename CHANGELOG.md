@@ -1,11 +1,15 @@
-## 0.0.1
+## 0.0.4
 
-* TODO: Describe initial release.
+* TODO:  add example folder
+
+## 0.0.3
+
+* TODO:  homepage and github add
 
 ## 0.0.2
 
 * TODO: new project
 
-## 0.0.3
+## 0.0.1
 
-* TODO:  homepage and github add
+* TODO: Describe initial release.
