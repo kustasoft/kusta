@@ -8,6 +8,6 @@ Language: English
 ### Add dependency
 ```yaml
 dependencies:
-  kusta: ^0.0.4
+  kusta: ^0.0.5
 
 ```
